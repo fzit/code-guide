@@ -5,3 +5,4 @@ https://github.com/Zhangjd/css-style-guide
 https://github.com/sivan/javascript-style-guide  
 http://alloyteam.github.io/CodeGuide/  
 https://github.com/alivebao/clean-code-js  
+http://taobaofed.org/blog/2017/01/05/writing-readable-code/  
