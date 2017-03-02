@@ -1,8 +1,7 @@
-See:  
-https://github.com/feross/standard/blob/master/RULES.md#javascript-standard-style  
-https://github.com/mdo/code-guide  
-https://github.com/Zhangjd/css-style-guide  
-https://github.com/sivan/javascript-style-guide  
-http://alloyteam.github.io/CodeGuide/  
-https://github.com/alivebao/clean-code-js  
-http://taobaofed.org/blog/2017/01/05/writing-readable-code/  
+- [JavaScript Standard Style](https://github.com/feross/standard/blob/master/RULES.md#javascript-standard-style)
+- [Code Guide](https://github.com/mdo/code-guide)
+- [Airbnb CSS / Sass 指南](https://github.com/Zhangjd/css-style-guide)
+- [Airbnb JavaScript Style Guide](https://github.com/sivan/javascript-style-guide)
+- [Code Guide](http://alloyteam.github.io/CodeGuide/)
+- [JavaScript 风格指南](https://github.com/alivebao/clean-code-js)
+- [编写「可读」代码的实践](http://taobaofed.org/blog/2017/01/05/writing-readable-code/)
