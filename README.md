@@ -5,3 +5,4 @@
 - [Code Guide](http://alloyteam.github.io/CodeGuide/)
 - [JavaScript 风格指南](https://github.com/alivebao/clean-code-js)
 - [编写「可读」代码的实践](http://taobaofed.org/blog/2017/01/05/writing-readable-code/)
+- [ES6编程风格](https://microzz.com/2017/02/06/es6-style/)
